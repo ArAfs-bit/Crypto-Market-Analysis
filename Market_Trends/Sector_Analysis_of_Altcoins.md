@@ -53,7 +53,7 @@ While altcoins offer lucrative opportunities, they also come with a number of ri
 - **Scam Tokens**: The rise of scam tokens and rug pulls is a growing concern, particularly in decentralized exchanges where listing requirements are minimal.
   
 For data on scam tokens and other risks:
-- [CoinTelegraph - Scam Tokens Overview](https://cointelegraph.com/news/why-crypto-scams-are-a-big-threat)
+- [Scam Tokens Overview](https://moneysmart.gov.au/financial-scams/crypto-scams)
 - [CoinDesk - Crypto Risks and Regulation](https://www.coindesk.com/tag/crypto-regulation)
 
 ---
