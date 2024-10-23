@@ -41,9 +41,9 @@ Several emerging trends are shaping the future of altcoins. These include:
 - **Cross-chain Interoperability**: Projects like Polkadot and Cosmos are aiming to create ecosystems where different blockchains can communicate with one another.
 
 For news on these emerging trends and total crypto market:
-- [CoinDesk - one of the largest and most popular crypto media outlets in the world.](https://medium.com/@linhptadamo/cryptocurrency-trends-2025-embrace-the-future-9e348b4e134b)
-- [](https://blockworks.co/)
-- [](https://www.coindesk.com/)
+- [Medium - Cryptocurrency trends 2025: Embrace the future](https://medium.com/@linhptadamo/cryptocurrency-trends-2025-embrace-the-future-9e348b4e134b)
+- [Blockworks](https://blockworks.co/)
+- [CoinDesk](https://www.coindesk.com/)
 ---
 
 ## **6. Risk Factors and Challenges**
