@@ -47,7 +47,7 @@ Altcoins encompass a wide variety of cryptocurrencies, each designed to address 
 
 Below is a pie chart that visualizes the market cap distribution by sector, highlighting how different types of altcoins contribute to the overall cryptocurrency market:
 
-![Altcoin Market Cap Distribution](Screenshots/Pie_Chart.png)
+![Altcoin Market Cap Distribution](Screenshots/Pie_Chart)
 *Figure 3: Pie chart showing market cap distribution of different altcoin sectors.*
 
 #### Key Altcoin Sectors:
