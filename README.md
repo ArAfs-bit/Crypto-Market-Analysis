@@ -12,7 +12,7 @@ This repository provides an in-depth analysis of the Bitcoin and altcoin markets
 ## Bitcoin Market Analysis
 
 ### 1. Bitcoin Analytics - Market Overview
-![Bitcoin Analytics](../Screenshots/BTC_Analytics.png)
+![Bitcoin Analytics](Screenshots/BTC_Analytics.png)
 *Figure 1: Distribution of Bitcoin holders across different address sizes.*
 
 Bitcoin ownership is widespread but often distributed across smaller addresses, with 80.35% of holders having less than $1,000 in Bitcoin. Despite this, whale holders (addresses holding large amounts) control 1.26% of addresses but hold a significant portion of the total supply. This dynamic allows whales to have outsized market influence.
@@ -30,7 +30,7 @@ According to [Arkham Intelligence](https://platform.arkhamintelligence.com/explo
 - **Hot Wallets**: More frequently used for transactions, generally controlled by exchanges or active traders. They hold a smaller share but have higher transaction volume.
 
 ### 3. Bitcoin Price Technical Analysis - 2023/2024 Trend
-![Bitcoin Price Technical Analysis](../Screenshots/TradingView.jpg)
+![Bitcoin Price Technical Analysis](Screenshots/TradingView.jpg)
 *Figure 2: Price trends and technical analysis from November 2023 through October 2024.*
 
 Bitcoin has experienced a breakout from a long-term consolidation range, signaling bullish momentum. Increased On-Balance Volume (OBV) suggests growing buying pressure, possibly leading to a price target of $75,000 in the coming months.
