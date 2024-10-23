@@ -2,7 +2,7 @@
 
 ## 1. Bitcoin Analytics - Market Overview
 
-![Bitcoin Analytics](Screenshots/BTC_Analytics.png)  
+![Bitcoin Analytics] (./Screenshots/BTC_Analytics.png)
 *Figure 1: Distribution of Bitcoin holders across different address sizes.*
 
 ### Description:
