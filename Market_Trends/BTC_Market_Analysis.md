@@ -64,9 +64,11 @@ The data suggests a few key trends:
 ---
 
 ### Sources:
-- For the Bitcoin Analytics section: [CoinMarketCap](#).
-- For the Bitcoin Dominance section: [CoinMarketCap](#).
-- For the Price Technical Analysis: [TradingView and X/IncomeSharks](#).
+### Sources:
+- For the Bitcoin Analytics section: [CoinMarketCap - Bitcoin Analytics](https://coinmarketcap.com/)
+
+- For the Bitcoin Dominance section: [CoinMarketCap - Bitcoin Dominance](https://coinmarketcap.com/charts/#dominance-percentage)
+- For the Price Technical Analysis: [[IncomeSharks - BTC Price Analysis Tweet](https://x.com/IncomeSharks/status/1847368028469809198)).
 
 
 
