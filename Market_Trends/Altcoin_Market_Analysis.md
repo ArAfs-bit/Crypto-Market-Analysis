@@ -27,11 +27,6 @@ Key metrics to track include:
 - Total altcoin market capitalization compared to Bitcoin:
   - [CoinMarketCap - Altcoin vs Bitcoin Market Cap](https://coinmarketcap.com/charts/)
   
-  To access the exact chart:
-    1. Visit the page.
-    2. Scroll down to “Total Market Capitalization Dominance.”
-    3. Take a screenshot of the "Bitcoin Dominance" chart, which highlights the market share of Bitcoin compared to altcoins.
-
 - Historical price movements and market cap data:
   - [CoinMarketCap - Historical Data](https://coinmarketcap.com/historical/)
   
