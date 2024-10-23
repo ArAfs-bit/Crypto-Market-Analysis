@@ -65,7 +65,7 @@ Predictions indicate that altcoins will continue to rise in market share as more
 
 For expert opinions and future market predictions:
 - [Messari - Altcoin Market Predictions](https://messari.io/)
-- [CoinDesk - Future of Altcoins](https://www.coindesk.com/markets/2024-altcoins-outlook/)
+- [ForexLive - Future of Altcoins](https://www.forexlive.com/Education/is-investing-in-altcoins-the-future-20241018/)
 
 ---
 
