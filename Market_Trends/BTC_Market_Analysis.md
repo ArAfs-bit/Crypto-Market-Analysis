@@ -37,7 +37,7 @@ The most notable period of decline in BTC dominance was in 2017–2018, when alt
 
 ## 3. Bitcoin Price Technical Analysis - 2023/2024 Trend
 
-![Bitcoin Price Technical Analysis](../Screenshots/TradingView.png)  
+![Bitcoin Price Technical Analysis](../Screenshots/TradingView.jpg)  
 *Figure 3: Bitcoin price trendlines, resistance, support levels, and trading volume over the past year.*
 
 ### Description:
