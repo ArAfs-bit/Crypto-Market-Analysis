@@ -2,7 +2,7 @@
 
 ## 1. Bitcoin Analytics - Market Overview
 
-![Bitcoin Analytics] (./Screenshots/BTC_Analytics.png)
+![Bitcoin Analytics](../Screenshots/BTC_Analytics.png)
 *Figure 1: Distribution of Bitcoin holders across different address sizes.*
 
 ### Description:
@@ -20,7 +20,7 @@ The "Addresses by Time Held" chart shows that most investors (70.89%) are long-t
 
 ## 2. Bitcoin Dominance - Long-Term Market Trends
 
-![BTC_Dominance](Screenshots/BTC_Dominance.png)  
+![Bitcoin Dominance](../Screenshots/BTC_Dominance.png)  
 *Figure 2: Bitcoin's dominance compared to other major cryptocurrencies like Ethereum, BNB, and USDT.*
 
 ### Description:
@@ -37,7 +37,7 @@ The most notable period of decline in BTC dominance was in 2017–2018, when alt
 
 ## 3. Bitcoin Price Technical Analysis - 2023/2024 Trend
 
-![Bitcoin Price Technical Analysis](Screenshots/Tradingview.png)  
+![Bitcoin Price Technical Analysis](../Screenshots/TradingView.png)  
 *Figure 3: Bitcoin price trendlines, resistance, support levels, and trading volume over the past year.*
 
 ### Description:
@@ -60,15 +60,6 @@ The data suggests a few key trends:
 1. **Widespread but low-value ownership**: Most Bitcoin holders are small investors, with whales holding only a small percentage of addresses but exerting considerable influence.
 2. **BTC dominance**: While altcoins, particularly Ethereum, stablecoins, and newer projects like Solana, have reduced Bitcoin's overall dominance, BTC continues to hold a majority share of the cryptocurrency market.
 3. **Potential for price growth**: Technical analysis points to strong support levels, a recent breakout, and increasing buying pressure, indicating that Bitcoin may be poised for continued price appreciation toward $75,000 in the coming months.
-
-![Bitcoin Analytics](../Screenshots/BTC_Analytics.png)
-*Figure 1: Distribution of Bitcoin holders across different address sizes.*
-
-![Bitcoin Dominance](../Screenshots/BTC_Dominance.png)  
-*Figure 2: Bitcoin's dominance compared to other major cryptocurrencies like Ethereum, BNB, and USDT.*
-
-![Bitcoin Price Technical Analysis](../Screenshots/TradingView.png)  
-*Figure 3: Bitcoin price trendlines, resistance, support levels, and trading volume over the past year.*
 
 
 ---
