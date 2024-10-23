@@ -9,7 +9,7 @@ Below is a pie chart that visualizes the market cap distribution by sector, high
 ### **DeFi (Decentralized Finance)**
 - Example: Uniswap (UNI), Aave (AAVE).
 - DeFi tokens are used for decentralized financial applications like lending, borrowing, and trading without intermediaries.
-- DeFi Statistics: [DeFi Pulse - DeFi Token Rankings]([https://defipulse.com/](https://defillama.com/))
+- DeFi Statistics: [DeFi Token Rankings](https://defillama.com/))
 
 ### **NFT (Non-Fungible Tokens)**
 - Example: Flow (FLOW), Chiliz (CHZ).
