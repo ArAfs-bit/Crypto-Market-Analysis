@@ -4,7 +4,7 @@ Altcoins can be divided into different sectors based on their use cases. Each se
 ### **Altcoin Market Overview**
 Below is a pie chart that visualizes the market cap distribution by sector, highlighting how different types of altcoins contribute to the overall cryptocurrency market:
 
-![Altcoin Market Cap Distribution](..Screenshots/Pie_Chart)
+![Altcoin Market Cap Distribution](Screenshots/Pie_Chart)
 
 ### **DeFi (Decentralized Finance)**
 - Example: Uniswap (UNI), Aave (AAVE).
