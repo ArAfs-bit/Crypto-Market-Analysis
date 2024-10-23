@@ -35,7 +35,7 @@ Key metrics to track include:
     2. Choose any specific dates, like the past month, to showcase historical market cap and trading volume data.
 
 - TradingView provides detailed altcoin price charts:
-  - [TradingView - Cryptocurrency Overview](https://www.tradingview.com/chart/?symbol=CRYPTOCAP%3ATOTAL2)
+  - [TradingView - Cryptocurrency Overview](https://www.tradingview.com/symbols/TOTAL2/)
 
 ---
 
