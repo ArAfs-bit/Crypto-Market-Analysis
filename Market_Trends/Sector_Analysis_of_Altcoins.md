@@ -40,9 +40,10 @@ Several emerging trends are shaping the future of altcoins. These include:
 - **Meme Coin Frenzy**: The rise of tokens like SHIB and PEPE shows the impact of viral internet culture on the altcoin market.
 - **Cross-chain Interoperability**: Projects like Polkadot and Cosmos are aiming to create ecosystems where different blockchains can communicate with one another.
 
-For data on these emerging trends:
-- [CoinMarketCap - Top Crypto Trends for 2024](https://coinmarketcap.com/community/articles/648be80c4b772e001c31e50f/)
-- [Morpher - Cryptocurrency Trends in 2024](https://www.morpher.com/blog/cryptocurrency-trends-2024)
+For news on these emerging trends and total crypto market:
+- [](https://medium.com/@linhptadamo/cryptocurrency-trends-2025-embrace-the-future-9e348b4e134b)
+- [](https://blockworks.co/)
+- [](https://www.coindesk.com/)
 ---
 
 ## **6. Risk Factors and Challenges**
