@@ -2,7 +2,7 @@
 
 ## 1. Bitcoin Analytics - Market Overview
 
-![Bitcoin Analytics](path/to/BTC_Analytics.png)  
+![Bitcoin Analytics](Screenshots/BTC_Analytics.png)  
 *Figure 1: Distribution of Bitcoin holders across different address sizes.*
 
 ### Description:
@@ -20,7 +20,7 @@ The "Addresses by Time Held" chart shows that most investors (70.89%) are long-t
 
 ## 2. Bitcoin Dominance - Long-Term Market Trends
 
-![Bitcoin Dominance](path/to/BTC_Dominance.png)  
+![Bitcoin Dominance](Screenshots/BTC_Dominanace.png)  
 *Figure 2: Bitcoin's dominance compared to other major cryptocurrencies like Ethereum, BNB, and USDT.*
 
 ### Description:
@@ -37,7 +37,7 @@ The most notable period of decline in BTC dominance was in 2017–2018, when alt
 
 ## 3. Bitcoin Price Technical Analysis - 2023/2024 Trend
 
-![Bitcoin Price Technical Analysis](path/to/TradingView_BTC_Price.png)  
+![Bitcoin Price Technical Analysis](Screenshots/Tradingview.png)  
 *Figure 3: Bitcoin price trendlines, resistance, support levels, and trading volume over the past year.*
 
 ### Description:
@@ -64,9 +64,9 @@ The data suggests a few key trends:
 ---
 
 ### Sources:
-- For the Bitcoin Analytics section: [Glassnode or source used for the data](#).
-- For the Bitcoin Dominance section: [CoinMarketCap or source used for the data](#).
-- For the Price Technical Analysis: [TradingView](#).
+- For the Bitcoin Analytics section: [CoinMarketCap](#).
+- For the Bitcoin Dominance section: [CoinMarketCap](#).
+- For the Price Technical Analysis: [TradingView and X/IncomeSharks](#).
 
 
 
