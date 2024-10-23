@@ -20,7 +20,7 @@ The "Addresses by Time Held" chart shows that most investors (70.89%) are long-t
 
 ## 2. Bitcoin Dominance - Long-Term Market Trends
 
-![Bitcoin_Dominance](Screenshots/BTC_Dominance.png)  
+![BTC_Dominance](Screenshots/BTC_Dominance.png)  
 *Figure 2: Bitcoin's dominance compared to other major cryptocurrencies like Ethereum, BNB, and USDT.*
 
 ### Description:
