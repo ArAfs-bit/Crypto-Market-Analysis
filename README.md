@@ -39,10 +39,7 @@ Bitcoin has experienced a breakout from a long-term consolidation range, signali
 
 ## Altcoin Market Analysis
 
-### 1. Introduction to Altcoins
-Altcoins encompass a wide variety of cryptocurrencies, each designed to address different use cases beyond Bitcoin. Categories include utility tokens like Ethereum, meme coins like Dogecoin, and stablecoins like USDT.
-
-### 2. Altcoin Market Overview
+### Altcoin Market Overview
 Altcoins encompass a wide variety of cryptocurrencies, each designed to address different use cases beyond Bitcoin. Categories include utility tokens like Ethereum, meme coins like Dogecoin, and stablecoins like USDT.
 
 Below is a pie chart that visualizes the market cap distribution by sector, highlighting how different types of altcoins contribute to the overall cryptocurrency market:
