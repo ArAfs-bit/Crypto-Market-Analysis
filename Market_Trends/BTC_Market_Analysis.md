@@ -61,6 +61,16 @@ The data suggests a few key trends:
 2. **BTC dominance**: While altcoins, particularly Ethereum, stablecoins, and newer projects like Solana, have reduced Bitcoin's overall dominance, BTC continues to hold a majority share of the cryptocurrency market.
 3. **Potential for price growth**: Technical analysis points to strong support levels, a recent breakout, and increasing buying pressure, indicating that Bitcoin may be poised for continued price appreciation toward $75,000 in the coming months.
 
+![Bitcoin Analytics](../Screenshots/BTC_Analytics.png)
+*Figure 1: Distribution of Bitcoin holders across different address sizes.*
+
+![Bitcoin Dominance](../Screenshots/BTC_Dominance.png)  
+*Figure 2: Bitcoin's dominance compared to other major cryptocurrencies like Ethereum, BNB, and USDT.*
+
+![Bitcoin Price Technical Analysis](../Screenshots/TradingView.png)  
+*Figure 3: Bitcoin price trendlines, resistance, support levels, and trading volume over the past year.*
+
+
 ---
 
 ### Sources:
