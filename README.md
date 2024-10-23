@@ -42,15 +42,20 @@ Bitcoin has experienced a breakout from a long-term consolidation range, signali
 ### 1. Introduction to Altcoins
 Altcoins encompass a wide variety of cryptocurrencies, each designed to address different use cases beyond Bitcoin. Categories include utility tokens like Ethereum, meme coins like Dogecoin, and stablecoins like USDT.
 
-### 2. Market Overview and Metrics
-Altcoins have grown significantly and now account for a major share of the cryptocurrency market. Key metrics include:
-- **Market Cap**: The total market cap of altcoins compared to Bitcoin.
-- **Trading Volume**: Transactional activity of leading altcoins.
+### 2. Altcoin Market Overview
+Altcoins encompass a wide variety of cryptocurrencies, each designed to address different use cases beyond Bitcoin. Categories include utility tokens like Ethereum, meme coins like Dogecoin, and stablecoins like USDT.
 
-### 3. Top Altcoin Performers
-1. **Ethereum (ETH)**: Leading in smart contracts and decentralized applications.
-2. **Binance Coin (BNB)**: Multi-purpose token used on Binance exchange.
-3. **Ripple (XRP)**: Focused on cross-border payments.
+Below is a pie chart that visualizes the market cap distribution by sector, highlighting how different types of altcoins contribute to the overall cryptocurrency market:
+
+![Altcoin Market Cap Distribution](Screenshots/Pie_Chart.png)
+*Figure 3: Pie chart showing market cap distribution of different altcoin sectors.*
+
+#### Key Altcoin Sectors:
+- **DeFi (Decentralized Finance)**: Tokens used for decentralized financial applications like lending, borrowing, and trading without intermediaries. Examples: Uniswap (UNI), Aave (AAVE).
+- **NFT (Non-Fungible Tokens)**: Tokens representing ownership of unique assets, particularly in gaming, art, and entertainment. Examples: Flow (FLOW), Chiliz (CHZ).
+- **Stablecoins**: Cryptocurrencies designed to maintain a stable value, often backed by fiat currencies. Examples: Tether (USDT), USD Coin (USDC).
+- **Layer 1 Solutions**: Foundational blockchains on which decentralized applications are built. Examples: Ethereum (ETH), Solana (SOL), Avalanche (AVAX).
+- **Memecoins**: Cryptocurrencies often based on internet memes. Examples: Dogecoin (DOGE), Shiba Inu (SHIB).
 
 ---
 
